@@ -1,0 +1,13 @@
+End Time: 10
+Initial Timestep: 1e-5
+Max Timestep: 1e-3
+Error Tolerance: 1e-10
+Schwarzschild Radius: 1
+
+//---------------------
+Select Orbit: Circle 2D
+//---------------------
+//0 for false, 1 for true
+Console Output: 1
+Output File: output_file.txt
+Radial Coord: 15

@@ -1,0 +1,14 @@
+End Time: 25
+Initial Timestep: 1e-3
+Max Timestep: 1e-1
+Error Tolerance: 1e-6
+Schwarzschild Radius: 3
+
+//---------------------
+Select Orbit: Render 3D
+//---------------------
+//ordered in r, theta, phi
+Camera Pos: 18 1.57079 1.0
+Screen Size: 600 600
+Screen Scale: 1
+Background Texture: starmap_8k_bright.png 

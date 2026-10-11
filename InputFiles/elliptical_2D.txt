@@ -1,0 +1,16 @@
+End Time: 100
+Initial Timestep: 1e-6
+Max Timestep: 1e-3
+Error Tolerance: 1e-10
+Schwarzschild Radius: 2
+
+//---------------------
+Select Orbit: Input 2D
+//---------------------
+//0 for false, 1 for true
+Console Output: 1
+Output File: output_file.txt
+Radial Coord: 25
+Radial Velocity: -54.54677508
+Phi Coord: 0.0
+Phi Velocity: 1.872
