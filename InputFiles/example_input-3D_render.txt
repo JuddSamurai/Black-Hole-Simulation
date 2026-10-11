@@ -11,4 +11,4 @@ Select Orbit: Render 3D
 Camera Pos: 18 1.57079 1.0
 Screen Size: 600 600
 Screen Scale: 1
-Background Texture: starmap_8k_bright.png 
+Background Texture: starmap_4k.png 
